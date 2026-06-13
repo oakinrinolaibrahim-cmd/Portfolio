@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: 0;
 }
+.aboutme-section{
+    background-color: navy;
+    padding: 40px 60px; 
+}
+
+.aboutme-section .aboutme-content{
+    text-align: center;
+    color: white;
+}
+.aboutme-content h2{
+    margin-bottom: 20px;
+}
+.aboutme-content p{
+    padding: 0 4.5rem;
+}
